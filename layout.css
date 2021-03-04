@@ -1,0 +1,15 @@
+body,html{
+  margin:0;
+  padding:;
+}
+#main{
+  margin:50px auto;
+  width:260px;
+}
+#calc{
+  margin-left:52px;
+  width:60px;
+}
+input{
+  margin:5px 0;
+}
